@@ -1,6 +1,8 @@
 # Identification-of-corn-leaf-disease-using-Convolutional-Neural-Network
 
-System requirement: VS code Google colab/ Jupyter notebook
+System requirement: 
+VS code 
+Google colab/ Jupyter notebook
 
 To run this project in your machine
 
